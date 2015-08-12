@@ -1,0 +1,13 @@
+*.DS_Store
+*.swo
+*.swp
+*.log
+._*
+~
+.idea
+.Spotlight-V100
+.Trashes
+*.db
+*.dat
+node_modules
+build

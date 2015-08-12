@@ -1,0 +1,22 @@
+{
+  "name": "knightcrawler",
+  "version": "0.0.1",
+  "description": "DDM web article crawler",
+  "main": "app.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deseretdigital/knightcrawler.git"
+  },
+  "keywords": [
+    "crawler"
+  ],
+  "author": "Justin Warkentin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deseretdigital/knightcrawler/issues"
+  },
+  "homepage": "https://github.com/deseretdigital/knightcrawler"
+}
